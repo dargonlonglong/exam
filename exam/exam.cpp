@@ -29,7 +29,7 @@ int main()
     cout << " While loop: 1~" << n << "之間所有偶數的和為: " << sum << endl;
 
     // do while loop
-    int i = 2;
+    i = 2;
     sum = 0;
     do {
         sum += i;
