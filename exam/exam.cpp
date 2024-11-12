@@ -18,6 +18,5 @@ int main()
 		else result = "冬季";
 		cout << month << "月是" << result << endl;
 	}
-	
 }
 
